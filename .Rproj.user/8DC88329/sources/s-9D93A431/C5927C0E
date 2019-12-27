@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577466848043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C5927C0E",
+    "lastKnownWriteTime" : 1577467874,
+    "last_content_update" : 1577467874130,
+    "path" : "~/nflscrapRextra/R/apply_name_fixes.R",
+    "project_path" : "R/apply_name_fixes.R",
+    "properties" : {
+        "cursorPosition" : "8,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

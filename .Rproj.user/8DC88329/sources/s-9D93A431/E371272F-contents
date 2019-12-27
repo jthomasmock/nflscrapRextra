@@ -1,0 +1,12 @@
+library(tidyverse)
+library(nflscrapRextra)
+
+
+df_raw <- read_csv("https://raw.githubusercontent.com/ryurko/nflscrapR-data/master/play_by_play_data/regular_season/reg_pbp_2018.csv")
+
+pbp <- df_raw %>% 
+  apply_baldwin_mutations() %>% 
+  apply_sharpe_mutations() %>% 
+  apply_completion_probability() %>% 
+  apply_colors_and_logos() %>% 
+  apply_game_data()

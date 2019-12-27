@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577466807828.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DE8D8B4",
+    "lastKnownWriteTime" : 1577467861,
+    "last_content_update" : 1577467861773,
+    "path" : "~/nflscrapRextra/R/apply_baldwin_mutations.R",
+    "project_path" : "R/apply_baldwin_mutations.R",
+    "properties" : {
+        "cursorPosition" : "8,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

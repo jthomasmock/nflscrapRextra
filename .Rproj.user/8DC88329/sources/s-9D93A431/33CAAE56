@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577466784375.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "33CAAE56",
+    "lastKnownWriteTime" : 1577467759,
+    "last_content_update" : 1577467759552,
+    "path" : "~/nflscrapRextra/R/fix_inconsistent_data_types.R",
+    "project_path" : "R/fix_inconsistent_data_types.R",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

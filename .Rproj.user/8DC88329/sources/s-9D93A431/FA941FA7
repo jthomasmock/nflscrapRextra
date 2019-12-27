@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577466831756.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FA941FA7",
+    "lastKnownWriteTime" : 1577467868,
+    "last_content_update" : 1577467868099,
+    "path" : "~/nflscrapRextra/R/apply_sharpe_mutations.R",
+    "project_path" : "R/apply_sharpe_mutations.R",
+    "properties" : {
+        "cursorPosition" : "8,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
