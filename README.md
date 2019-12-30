@@ -24,18 +24,6 @@ devtools::install_github("jthomasmock/nflscrapRextra")
 
 <a name="which_games"/>
 
-## Get data for just the games you're missing!
-
-The first time you run this, it will download everything. (This will take a long time.)
-
-But in subsequent executions, it will check which NFL games are complete that you don't have data for, and get data for those games. When binding, it will automatically fix data types of fields that R likes to complain about through a custom function `fix_inconsistent_data_types()` so the binding can happen cleanly.
-
-In either case, the rest of the modifications described below continue to apply.
-
-*Note: If you are trying to use nflscrapR for live in-game data purposes, this won't work for you. This code only downloads data for games that have been completed.*
-
-<a name="fix_team_abbreviations"/>
-
 ## Fix team abbreviations
 
 There is inconsistent usage for team abbrevations, this attempts to standardize things through the function `fix_team_abbreviations()`. In particular, it uses JAX to refer to the Jacksonville Jaguars, cleaning up old games that use **JAC**. Additionally, for some reason, the NFL uses **LA** to refer to the Los Angeles Rams, even though there are now two teams that play in Los Angeles. This updates all of the Los Angeles Rams abbreviations to **LAR**. Every nflscrapR column where "team" is somewhere in the name of the column gets updated.
